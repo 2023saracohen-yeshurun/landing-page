@@ -46,7 +46,7 @@ El club propone compartir lecturas, explicar temas de clase y organizar objetivo
 - [x] Sketch previo al código.
 - [x] Prompt registrado.
 - [x] Página funcionando y pruebas realizadas.
-- [ ] Publicado en GitHub.
+- [x] Publicado en GitHub.
 
 ## Repositorio
 
