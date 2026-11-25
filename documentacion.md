@@ -2,7 +2,15 @@
 
 ## 🧩 Datos generales
 
-Estudiante: Sara Cohen. Club Entre Líneas.
+| Campo | Detalle |
+| --- | --- |
+| Integrante 1 | Sara Cohen |
+| Integrante 2 | No corresponde: trabajo individual |
+| Modelos de IA utilizados | ChatGPT; GPT-6 Luna (revisión) |
+| Tecnologías del proyecto | HTML5, CSS3, Markdown, Visual Studio Code y GitHub |
+| Link del repositorio | https://github.com/2023saracohen-yeshurun/landing-page |
+
+---
 
 ## 📄 Sketch
 
@@ -55,6 +63,6 @@ El club propone compartir lecturas, explicar temas de clase y organizar objetivo
 
 ## Herramientas utilizadas
 
-HTML y CSS, Visual Studio Code, GitHub, Chrome y archivos Markdown. Asistencia de IA: GPT-6 Luna en las tareas delegadas de implementación y revisión.
+HTML y CSS, Visual Studio Code, GitHub, Chrome y archivos Markdown. Asistencia de IA: ChatGPT para la implementación y GPT-6 Luna para la revisión.
 
 [Sitio del proyecto](https://2023saracohen-yeshurun.github.io/landing-page/)
